@@ -5,7 +5,7 @@ This is the official repository of [**Superpowering Open-Vocabulary Object Detec
 We propose **RAXO**, a training-free method that seamlessly adapts RGB OvOD models to X-ray
 
 <div align="center">
-  <img src="./assets/teaser_v4.png" alt="Teaser">
+  <img src="./assets/teaser.png" alt="Teaser">
 </div>
 
 
